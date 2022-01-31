@@ -8,7 +8,8 @@ A chatbot is an artificial intelligence (AI) program that can simulate a convers
 Examples : Alexa,Google,Cortana...
 
 2.What ChatBots Can Do?
-   They give your company a face.
+         They give your company a face.
+	 
 	 You are available – immediately.
 	 They can increase your sales.
 	 They lay the foundation for your conversational marketing strategy.
