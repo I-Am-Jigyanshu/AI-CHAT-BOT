@@ -2,12 +2,12 @@
 AI ChatBot using Python Tensorflow and Natural Language Processing (NLP) along side Jigyanshu Hey Guys!! Want to Learn about ChatBots? So the Solution is Here.
 ![image](https://user-images.githubusercontent.com/68092947/151745691-dd9ee989-70b9-4de4-a921-01c89685f8cf.png)
 
-1.What are ChatBots?
+# 1.What are ChatBots?
 
 A chatbot is an artificial intelligence (AI) program that can simulate a conversation (or a chat) with a user in natural language through messaging applications, websites, mobile applications or by phone.
 Examples : Alexa,Google,Cortana...
 
-2.What ChatBots Can Do?
+# 2.What ChatBots Can Do?
          
 	 They give your company a face.
 	 You are available – immediately.
@@ -41,6 +41,15 @@ It is the server that deals with user traffic requests and routes them to the pr
 
    ## 5. Custom Integrations
 With custom integrations, your chatbot can be integrated with your existing backend systems like CRM, database, payment apps, calendar, and many such tools, to enhance the capabilities of your chatbot.
+
+# 4.How are chatbots useful?
+
+Chatbots are becoming increasingly important due to their financial benefits.
+Chatbots provide individual connections to a limitless number of users at scale.
+Chatbots automate routine functions.
+Chatbots make it easy to have excellent customer service and a customized experience 
+Chatbots are social, allowing for a two-way dialogue with suggestions.
+Chatbots are very efficient
 
      
 
