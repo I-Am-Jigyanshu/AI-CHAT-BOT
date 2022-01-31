@@ -44,12 +44,14 @@ With custom integrations, your chatbot can be integrated with your existing back
 
 # 4.How are chatbots useful?
 
-Chatbots are becoming increasingly important due to their financial benefits.
-Chatbots provide individual connections to a limitless number of users at scale.
-Chatbots automate routine functions.
-Chatbots make it easy to have excellent customer service and a customized experience 
-Chatbots are social, allowing for a two-way dialogue with suggestions.
-Chatbots are very efficient
+                       Chatbots are becoming increasingly important due to their financial benefits.
+
+                       Chatbots provide individual connections to a limitless number of users at scale.
+
+                       Chatbots automate routine functions.
+                       Chatbots make it easy to have excellent customer service and a customized experience 
+                       Chatbots are social, allowing for a two-way dialogue with suggestions.
+                       Chatbots are very efficient
 
      
 
